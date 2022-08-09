@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govardhan</h1>
 
- <p align="center"><img alt="GIF" src="https://github.com/dhanireddygovardhanreddy/dhanireddygovardhanreddy/blob/main/code.gif?raw=true" width="500" height="320" /></p>
+ <p align="center"><img alt="GIF" src="https://github.com/dhanireddygovardhanreddy/dhanireddygovardhanreddy/blob/main/code.gif?raw=true" width="500" height="330" /></p>
 
 ## 💬 Reach Me!!
 <p align="left">
