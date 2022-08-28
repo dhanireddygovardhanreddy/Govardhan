@@ -38,6 +38,10 @@
 ## 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ava2z75jx7afqyw6aautdf4twe&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
+## 👨‍💻 Code Stats
+<!--START_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=govardhanreddy)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
 ## 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanireddygovardhanreddy&show_icons=true&theme=dark)
 
