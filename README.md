@@ -40,8 +40,8 @@
 
 ## 👨‍💻 Code Stats
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=govardhanreddy)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
+
 ## 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanireddygovardhanreddy&show_icons=true&theme=dark)
 
