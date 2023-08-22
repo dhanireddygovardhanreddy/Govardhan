@@ -28,10 +28,33 @@
   <a href="#" onclick="return false;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="41" height="41"  />
   </a>
+ <a href="#" onclick="return false;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="41" height="41"  />
+  </a>
+ </a href="#" onclick="return false;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="41" height="41"  />
+  </a>
+  <a href="#" onclick="return false;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="41" height="41"  />
+  </a>
     <!--Tools -->
   <a href="#" onclick="return false;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="41" height="41"  />
   </a>
+ </a href="#" onclick="return false;">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="41"
+  height="41" />
+  </a>
+  </a href="#" onclick="return false;">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="41"
+  height="41" />
+  </a>
+  </a href="#" onclick="return false;">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="41"
+  height="41" />
+  </a>
+  
+   
 </p>
  <br>
 
