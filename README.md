@@ -58,10 +58,10 @@
 </p>
  <br>
 
-## 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ava2z75jx7afqyw6aautdf4twe&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<!--## 🎧 Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ava2z75jx7afqyw6aautdf4twe&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)-->
 
-## 👨‍💻 Code Stats
+<!--## 👨‍💻 Code Stats-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
