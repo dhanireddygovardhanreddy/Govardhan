@@ -75,7 +75,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanireddygovardhanreddy&langs_count=5&theme=codeSTACKr&hide_border=true)
 
 ## 📈 Metrics
-![Metrics](https://github.com/dhanireddygovardhanreddy/Govardhan/blob/main/github-metrics.svg)  
+![Metrics](https://github.com/dhanireddygovardhanreddy/dhanireddygovardhanreddy/blob/main/github-metrics.svg)  
 
 
 
