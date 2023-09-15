@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govardhan</h1>
 
- <p align="center"><img alt="GIF" src="https://github.com/dhanireddygovardhanreddy/dhanireddygovardhanreddy/blob/main/code.gif?raw=true" width="auto" height="330" /></p>
+ <p align="center"><img alt="GIF" src="/resources/code.gif" width="auto" height="330" /></p>
 
 ## 💬 Reach Me!!
 <p align="left">
@@ -14,46 +14,38 @@
 ## 👨‍💻 Technology Stack
 <p align="left" >
  <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="41">
+    <img src="resources/icons/html5-original.svg" width="40" height="41">
   </a>
   <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="41" height="41"  />
+    <img src="resources/icons/css3-original.svg" width="41" height="41"  />
   </a>
   <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="41" height="41"  />
+    <img src="resources/icons/bootstrap-original.svg" width="41" height="41"  />
   </a>
   <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="41" height="41"  />
+    <img src="resources/icons/bash-original.svg" width="41" height="41"  />
   </a>
   <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="41" height="41"  />
+    <img src="resources/icons/googlecloud-original.svg" width="41" height="41"  />
   </a>
  <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="41" height="41"  />
+    <img src="resources/icons/github-original.svg" width="41" height="41"  />
   </a>
  </a href="#" onclick="return false;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="41" height="41"  />
+  <img src="/resources/icons/linux-original.svg" width="41" height="41"  />
   </a>
   <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="41" height="41"  />
+    <img src="/resources/icons/vscode-original.svg" width="41" height="41"  />
   </a>
     <!--Tools -->
   <a href="#" onclick="return false;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="41" height="41"  />
+    <img src="/resources/icons/premierepro-original.svg" width="41" height="41"  />
   </a>
  </a href="#" onclick="return false;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="41"
+ <img src="/resources/icons/blender-original.svg" width="41"
   height="41" />
   </a>
-  </a href="#" onclick="return false;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="41"
-  height="41" />
-  </a>
-  </a href="#" onclick="return false;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="41"
-  height="41" />
-  </a>
-  
+    
    
 </p>
  <br>
