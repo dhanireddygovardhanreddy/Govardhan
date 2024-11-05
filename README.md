@@ -2,14 +2,6 @@
 
  <p align="center"><img alt="GIF" src="/resources/code.gif" width="auto" height="330" /></p>
 
-## 💬 Reach Me!!
-<p align="left">
-    <a href="https://forum.xda-developers.com/m/dhanireddygovardhanreddy.11982413/" target="blank"><img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA" /></a>
-    <a href="https://www.linkedin.com/in/dhanireddy-reddy-736743215/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-    <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://t.me/squadgtx" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    </p>
- <br>
  
 ## 👨‍💻 Technology Stack
 <p align="left" >
@@ -44,10 +36,21 @@
  </a href="#" onclick="return false;">
  <img src="/resources/icons/blender-original.svg" width="41"
   height="41" />
-  </a>
-    
-   
+  </a>  
 </p>
+ 
+
+ ## 💬 Reach Me!!
+<p align="left">
+    <a href="https://forum.xda-developers.com/m/dhanireddygovardhanreddy.11982413/" target="blank"><img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA" /></a>
+    <a href="https://www.linkedin.com/in/dhanireddy-reddy-736743215/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+    <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://t.me/squadgtx" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    </p>
+
+ ## 🐍 Contribution Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanireddygovardhanreddy&theme=github-compact&hide_title=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
  <br>
 
 ## 🎧 Spotify Playing
