@@ -64,7 +64,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhanireddygovardhanreddy&theme=dark)](https://git.io/streak-stats)
 
 ## ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanireddygovardhanreddy&langs_count=5&theme=codeSTACKr&hide_border=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanireddygovardhanreddy&langs_count=5&theme=codeSTACKr&hide_border=true)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanireddygovardhanreddy&layout=donut&theme=codeSTACKr&hide_border=true)
 
 ## 📈 Metrics
 ![Metrics](https://github.com/dhanireddygovardhanreddy/dhanireddygovardhanreddy/blob/main/github-metrics.svg)  
